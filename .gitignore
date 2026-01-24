@@ -1,0 +1,15 @@
+*.pyc
+*.npy
+*.pth
+*.egg-info
+*.so
+*.o
+**_debug**
+/ckpt
+/work_dirs
+/val
+/datasets
+/data/nuscenes*
+/data/infos
+/wandb
+/result_vis
